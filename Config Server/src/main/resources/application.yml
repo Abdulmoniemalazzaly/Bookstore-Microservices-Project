@@ -9,7 +9,7 @@ spring:
         git:
           uri: https://github.com/Abdulmoniemalazzaly/bookstore-app
           username: Abdulmoniemalazzaly
-          password: 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
+          password: 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
           force-pull: true
           default-label: main
       enabled: true
