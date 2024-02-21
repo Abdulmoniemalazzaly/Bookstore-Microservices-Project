@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/API Clients/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/API Clients/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/APi Gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/APi Gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Authentication Service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Authentication Service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Book Service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Book Service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Commons/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Commons/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Config Server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Config Server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Eureka Server Cluster/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Eureka Server Cluster/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Notification Service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Notification Service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Order Service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Order Service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Payment Service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Payment Service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Student Service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Student Service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/User Service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/User Service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/amqp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/amqp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

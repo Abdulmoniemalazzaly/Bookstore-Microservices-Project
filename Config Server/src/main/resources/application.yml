@@ -1,0 +1,36 @@
+server:
+  port: ${PORT:8012}
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/Abdulmoniemalazzaly/bookstore-app
+          username: Abdulmoniemalazzaly
+          password: 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
+          force-pull: true
+          default-label: main
+      enabled: true
+    bus:
+      enabled: true
+  rabbitmq:
+    host: rabbit-mq
+    port: 5672
+    username: guest
+    password: '{cipher}AQA0OZPGjgxH+xpqFeOVZTAR9ddOhdFqSSy/cwQ1TUh/6AGVvQGECrha+MOxfmn0fuYp61lxZiUBzsdKJM3U6RNqJcwkTn4kn91PuLZPKTyxcIvn0KlPzKzVqH6Gpmt9a+AWWJ2jiB4i0MSdepiiAbpVZB0HaR+Tc4spFW92ka1tLrEluiUTq12n72LCjKc7FAasx8QVRucOxU3Iya5jjXzcBKAmgb7v9ouny3x2Ru4J5XFwiVeKIiYfwPm/bsHj6w/gxEN3Fmmp9ZDXd6HPnfs0GeO+EllF+5Hblg96jn2GiROgs5G27+ESNSqGT1jd9LkWDTybKxpZweqsJ0bFBIExkOvC3HV8HdfUn87ibKUTFJoqlj5FL7YVz/B4KBr7cQU='
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  health:
+    readiness-state:
+      enabled: true
+    liveness-state:
+      enabled: true
+  endpoint:
+    health:
+      probes:
+        enabled: true

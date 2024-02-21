@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Payment Service" />
+        <module name="Student Service" />
+        <module name="Authentication Service" />
+        <module name="Notification Service" />
+        <module name="User Service" />
+        <module name="APi Gateway" />
+        <module name="API Clients" />
+        <module name="Config Server" />
+        <module name="Course Service" />
+        <module name="Book Service" />
+        <module name="Order Service" />
+        <module name="Commons" />
+        <module name="Eureka Server Cluster" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="amqp" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
