@@ -1,7 +1,0 @@
-D:\Software Development\Spring Boot\Microservices\Projects\Online Bookstore App\Online Bookstore App\APi Gateway\src\main\java\com\bookstore\apigateway\config\FiltersConfig.java
-D:\Software Development\Spring Boot\Microservices\Projects\Online Bookstore App\Online Bookstore App\APi Gateway\src\main\java\com\bookstore\apigateway\filter\AuthenticationFilter.java
-D:\Software Development\Spring Boot\Microservices\Projects\Online Bookstore App\Online Bookstore App\APi Gateway\src\main\java\com\bookstore\apigateway\exception\GlobalExceptionHandler.java
-D:\Software Development\Spring Boot\Microservices\Projects\Online Bookstore App\Online Bookstore App\APi Gateway\src\main\java\com\bookstore\apigateway\config\ApplicationConfig.java
-D:\Software Development\Spring Boot\Microservices\Projects\Online Bookstore App\Online Bookstore App\APi Gateway\src\main\java\com\bookstore\apigateway\filter\RouteValidator.java
-D:\Software Development\Spring Boot\Microservices\Projects\Online Bookstore App\Online Bookstore App\APi Gateway\src\main\java\com\bookstore\apigateway\ApiGatewayApplication.java
-D:\Software Development\Spring Boot\Microservices\Projects\Online Bookstore App\Online Bookstore App\APi Gateway\src\main\java\com\bookstore\apigateway\exception\ErrorResponse.java
