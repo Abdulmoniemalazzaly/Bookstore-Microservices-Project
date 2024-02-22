@@ -1,6 +1,0 @@
-encrypt:
-#  key: sdf5a6a8g4hd5j4j5s6212x6x5cv11w6hh
-  key-store:
-    location: classpath:key/apiEncryptionKey.jks
-    password: P@ssw0rd
-    alias: apiEncryptionKey
