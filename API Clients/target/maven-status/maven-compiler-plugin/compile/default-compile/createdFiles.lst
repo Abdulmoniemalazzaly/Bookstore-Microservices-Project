@@ -1,4 +1,0 @@
-com\bookstore\clients\user\UserClientFallback.class
-com\bookstore\clients\user\UserClient.class
-com\bookstore\clients\config\BearerTokenRequestInterceptor.class
-com\bookstore\clients\payment\PaymentClient.class
